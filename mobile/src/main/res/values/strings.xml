@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Torii</string>
+    <string name="edittext_url">输入服务器URL</string>
+    <string name="button_url_clear">清除</string>
+    <string name="button_sendtowatch">发送到手表/保存URL</string>
+    <string name="button_request">发送URL请求</string>
+    <string name="button_uuid">生成uuid</string>
+    <string name="text_uuid">生成uuid后会自动保存至数据库</string>
 </resources>

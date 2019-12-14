@@ -22,6 +22,9 @@ android {
             dirs 'libs'
         }
     }
+    lintOptions {
+        disable 'GoogleAppIndexingWarning'
+    }
 }
 
 dependencies {
